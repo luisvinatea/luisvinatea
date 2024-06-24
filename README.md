@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @luisvinatea
-- 👀 I’m interested in restaurant performance and marketing analysis
-- 🌱 I’m currently learning corporate finance and coding
-- 💞️ I’m looking to collaborate in the hospitality sector
-- 📫 How to reach me: luisvinateabarberena@gmail.com/+5548988552904 wpp
-- ⚡ Fun fact: asperger and adhd
+# Hello World!
 
-# Tableau Projects
+This is where I showcase my work samples and ideas
+Feel free to reach me at: luisvinateabarberena@gmail.com | +5548988552904
+
+
+# Finished Projects
+
+## Tableau Projects
 
 [Open a Dark Kitchen in Florianópolis](https://public.tableau.com/app/profile/luisvinatea/vizzes)
 
