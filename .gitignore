@@ -1,0 +1,39 @@
+# Ignore log files
+**/*.log
+
+# Ignore all BFG report files in any location:
+**/bfg-report
+
+# Ignore the DevApps directory
+DevApps/
+
+# Ignore Visual Studio files and directories
+*.vs
+.vscode/
+
+# Ignore virtual environment directories
+venv/
+env/
+env.bak/
+env.local/
+.env/
+
+# Ignore other environment-specific files
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore macOS specific files
+.DS_Store
+
+# Ignore Windows specific files
+Thumbs.db
+
+# Ignore build directories
+build/
+dist/
+*.egg-info/
