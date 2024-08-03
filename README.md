@@ -7,7 +7,7 @@
 - 💬 Ask me about maps
 - 📫 How to reach me: luisvinatea@icloud.com
 - 😄 Pronouns: He, Him
-- ⚡ Fun fact: ADHD with coding hyperfocus
+- ⚡ Fun fact: Linux user
 
 <!--
 **luisvinatea/luisvinatea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
