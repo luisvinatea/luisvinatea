@@ -5,8 +5,10 @@
 - 👯 Looking to collaborate on open source projects
 - 🤔 Need help with cybersecurity
 - 💬 Ask me about spanish and portuguese translations
-- 📫 How to reach me: luisvinatea@icloud.com
 - ⚡ Fun fact: Linux user
+
+
+
 
 <div align="center">
 
