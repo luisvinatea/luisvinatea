@@ -1,12 +1,11 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Docker apps for data management
-- 🌱 I’m currently learning Node.js
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with cybersecurity
-- 💬 Ask me about maps
+- 🔭 Working on Docker apps for data management
+- 🌱 Learning Node.js
+- 👯 Looking to collaborate on open source projects
+- 🤔 Need help with cybersecurity
+- 💬 Ask me about spanish and portuguese translations
 - 📫 How to reach me: luisvinatea@icloud.com
-- 😄 Pronouns: He, Him
 - ⚡ Fun fact: Linux user
 
 <div align="center">
