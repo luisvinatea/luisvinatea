@@ -1,7 +1,7 @@
 # Luis Vinatea
 **Data & Business Intelligence Analyst | Financial Modeling Expert**  
 *Lima, Perú | Florianópolis, Brazil*  
-📧 [luisvinatea@icloud.com](mailto:luisvinatea@icloud.com) | 🇵🇪 +51 957778940 | 🇧🇷 +55 992219675  | [LinkedIn](https://www.linkedin.com/in/luisvinatea/) | [GitHub](https://github.com/luisvinatea)  
+📧 [luisvinatea@icloud.com](mailto:luisvinatea@icloud.com) | 🇵🇪 +51 957778940 | 🇧🇷 +55 (48) 992219675  | [LinkedIn](https://www.linkedin.com/in/luisvinatea/) | [GitHub](https://github.com/luisvinatea)  
 🌐 **Languages:** English (C1) | Portuguese (C2) | Spanish (C2)
 
 ---
