@@ -31,10 +31,10 @@ Throughout my career, I’ve implemented data-driven strategies that reduced ope
 - **Description:** An open-source initiative to scrape, process, and convert freely available online documentation into high-quality, offline-accessible EPUBs and PDFs  
 - **Tools:** Python (Pandas, Requests, BeautifulSoup, Scrapy)    
 - **Repo:** [luisvinatea/ByteBooks](https://github.com/luisvinatea/ByteBooks)
-- **Releases:** [Full Python Documentation in PDF](https://github.com/luisvinatea/ByteBooks/releases/download/v1.0.0/Python.3.13.2.Documentation.-.Python.Software.Foundation.pdf)
+- **Releases:** [Python Docs in PDF](https://github.com/luisvinatea/ByteBooks/releases/download/v1.0.0/Python.3.13.2.Documentation.-.Python.Software.Foundation.pdf)
 
 ### 2. AeraSync  
 - **Description:** A mobile and web application designed to streamline the calculation and tracking of the Standard Oxygen Transfer Rate (SOTR) and Standard Aeration Efficiency (SAE) for aerators in aquaculture ponds.  
 - **Tools:** Dart (Flutter)  
 - **Repo:** [luisvinatea/AeraSync](https://github.com/luisvinatea/AeraSync)
-- **Releases:** *coming soon*
+- **Releases:** [SOTR Calculator](https://luisvinatea.github.io/AeraSync/)
