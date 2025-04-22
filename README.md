@@ -43,21 +43,25 @@ Throughout my career, I’ve implemented data-driven strategies that reduced ope
 
 ## 📊 Weekly Development Analytics
 
-[![Luis's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luisvinatea&layout=compact&theme=radical&hide_border=true&custom_title=Weekly+Coding+Activity)](https://wakatime.com/@luisvinatea)
-
+<table>
+  <tr>
+    <td width="55%">
+      [![Luis's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luisvinatea&layout=compact&theme=radical&hide_border=true&custom_title=Weekly+Coding+Activity)](https://wakatime.com/@luisvinatea)
+    </td>
+    <td width="45%">
 <!--START_SECTION:waka-->
 ```text
 🔥 **Top Editors & Tools**  
-              █████████████████▓░░░░░░░  
-              ███░░░░░░░░░░░░░░░░░░░░░░     
+VS Code       █████████████████▓░░░░░░░  
+Nano          ███░░░░░░░░░░░░░░░░░░░░░░  
 
 💻 **Operating Systems**  
-              ██████████████░░░░░░░░░░░   
-              ██████░░░░░░░░░░░░░░░░░░░ 
+Linux        ██████████████░░░░░░░░░░░   
+Windows      ██████░░░░░░░░░░░░░░░░░░░ 
 
 🌐 **Language Breakdown**  
-              █████████████░░░░░░░░░░░░  
-              ████░░░░░░░░░░░░░░░░░░░░░    
-              ██▓░░░░░░░░░░░░░░░░░░░░░░   
+Python       █████████████░░░░░░░░░░░░  
+Dart         ████░░░░░░░░░░░░░░░░░░░░░    
+Bash         ██▓░░░░░░░░░░░░░░░░░░░░░░   
 ```
 <!--END_SECTION:waka-->
