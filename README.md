@@ -44,3 +44,8 @@ Throughout my career, I’ve implemented data-driven strategies that reduced ope
 ## 📊 Weekly Development Analytics
 
 [![Luis's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luisvinatea&layout=compact&theme=radical&hide_border=true)](https://wakatime.com/@luisvinatea)
+
+<!--START_SECTION:waka-->
+```text
+```
+<!--END_SECTION:waka-->
