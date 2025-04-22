@@ -2,15 +2,17 @@ name: WakaTime Stats
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # every 6 hours
-  workflow_dispatch:
+    - cron: '0 */6 * * *'  # Runs every 6 hours UTC
+  workflow_dispatch:       # Manual trigger via GitHub UI
 
 jobs:
   update-readme:
-    name: Update WakaTime stats
+    name: Update WakaTime stats in README
     runs-on: ubuntu-latest
+
     steps:
-      - uses: athul/waka-readme@master
+      - name: Use athul/waka-readme action
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TOTAL: true
