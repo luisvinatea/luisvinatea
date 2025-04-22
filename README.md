@@ -1,8 +1,8 @@
 # Luis Vinatea
-**Data & Business Intelligence Analyst | Financial Modeling Expert**  
-*Lima, Perú | Florianópolis, Brazil*  
-📧 [luisvinatea@icloud.com](mailto:luisvinatea@icloud.com) | 🇵🇪 +51 957778940 | 🇧🇷 +55 (48) 992219675  | [LinkedIn](https://www.linkedin.com/in/luisvinatea/) | [GitHub](https://github.com/luisvinatea)  
-🌐 **Languages:** English (C1) | Portuguese (C2) | Spanish (C2)
+**Data & Business Intelligence Analyst | Financial Modeling Expert**
+*Lima, Perú | Florianópolis, Brazil*
+📧 [luisvinatea@icloud.com](mailto:luisvinatea@icloud.com) | 🇵🇪 +51 957778940 | 🇧🇷 +55 (48) 992219675 | [LinkedIn](https://www.linkedin.com/in/luisvinatea/) | [GitHub](https://github.com/luisvinatea)
+🌐 Languages: English (C1) | Portuguese (C2) | Spanish (C2)
 
 ---
 
@@ -16,28 +16,28 @@ Throughout my career, I’ve implemented data-driven strategies that reduced ope
 
 ## 🛠️ Technical Skills
 
-- **Programming:** Python, SQL, R, Dart (Flutter), JavaScript, HTML & CSS
-- **Business Intelligence:** Power BI, Tableau  
-- **Financial Tools:** Advanced Excel (VBA), Cash Flow Analysis, Cost-Benefit Analysis  
-- **Data Analytics:** Statistical Modeling, Predictive Analytics, Data Visualization  
-- **Other Tools:** Git/GitHub, Azure, Docker, Big Data (MongoDB, BigQuery), RESTful APIs  
-- **Domains:** Financial Modeling, Process Automation, Business Intelligence, Digital Marketing  
+-   **Programming:** Python, SQL, R, Dart (Flutter), JavaScript, HTML & CSS
+-   **Business Intelligence:** Power BI, Tableau
+-   **Financial Tools:** Advanced Excel (VBA), Cash Flow Analysis, Cost-Benefit Analysis
+-   **Data Analytics:** Statistical Modeling, Predictive Analytics, Data Visualization
+-   **Other Tools:** Git/GitHub, Azure, Docker, Big Data (MongoDB, BigQuery), RESTful APIs
+-   **Domains:** Financial Modeling, Process Automation, Business Intelligence, Digital Marketing
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. ByteBooks  
-- **Description:** An open-source initiative to scrape, process, and convert freely available online documentation into high-quality, offline-accessible EPUBs and PDFs  
-- **Tools:** Python (Pandas, Requests, BeautifulSoup, Scrapy)    
-- **Repo:** [luisvinatea/ByteBooks](https://github.com/luisvinatea/ByteBooks)
-- **Releases:** [Python Docs in PDF](https://github.com/luisvinatea/ByteBooks/releases/download/v1.0.0/Python.3.13.2.Documentation.-.Python.Software.Foundation.pdf)
+### 1. ByteBooks
+-   **Description:** An open-source initiative to scrape, process, and convert freely available online documentation into high-quality, offline-accessible EPUBs and PDFs
+-   **Tools:** Python (Pandas, Requests, BeautifulSoup, Scrapy)
+-   **Repo:** [luisvinatea/ByteBooks](https://github.com/luisvinatea/ByteBooks)
+-   **Releases:** [Python Docs in PDF](https://github.com/luisvinatea/ByteBooks/releases/download/v1.0.0/Python.3.13.2.Documentation.-.Python.Software.Foundation.pdf)
 
-### 2. AeraSync  
-- **Description:** A mobile and web application designed to streamline the calculation and tracking of the Standard Oxygen Transfer Rate (SOTR) and Standard Aeration Efficiency (SAE) for aerators in aquaculture ponds.  
-- **Tools:** Dart (Flutter)  
-- **Repo:** [luisvinatea/AeraSync](https://github.com/luisvinatea/AeraSync)
-- **Releases:** [SOTR Calculator](https://luisvinatea.github.io/AeraSync/)
+### 2. AeraSync
+-   **Description:** A mobile and web application designed to streamline the calculation and tracking of the Standard Oxygen Transfer Rate (SOTR) and Standard Aeration Efficiency (SAE) for aerators in aquaculture ponds.
+-   **Tools:** Dart (Flutter)
+-   **Repo:** [luisvinatea/AeraSync](https://github.com/luisvinatea/AeraSync)
+-   **Releases:** [SOTR Calculator](https://luisvinatea.github.io/AeraSync/)
 
 ---
 
@@ -49,22 +49,19 @@ Throughout my career, I’ve implemented data-driven strategies that reduced ope
       [![Luis's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luisvinatea&layout=compact&theme=radical&hide_border=true&custom_title=Weekly+Coding+Activity)](https://wakatime.com/@luisvinatea)
     </td>
     <td width="45%">
-<!--START_SECTION:waka-->
 ```text
-🔥 **Top Editors & Tools**  
-VS Code       █████████████████▓░░░░░░░  
-Nano          ███░░░░░░░░░░░░░░░░░░░░░░  
+🔥 **Top Editors & Tools**
+VS Code           █████████████████▓░░░░░░░
+Nano              ███░░░░░░░░░░░░░░░░░░░░░░
 
-💻 **Operating Systems**  
-Linux        ██████████████░░░░░░░░░░░   
-Windows      ██████░░░░░░░░░░░░░░░░░░░ 
+💻 **Operating Systems**
+Linux             ██████████████░░░░░░░░░░░
+Windows           ██████░░░░░░░░░░░░░░░░░░░
 
-🌐 **Language Breakdown**  
-Python       █████████████░░░░░░░░░░░░  
-Dart         ████░░░░░░░░░░░░░░░░░░░░░    
-Bash         ██▓░░░░░░░░░░░░░░░░░░░░░░   
-<!--END_SECTION:waka-->
-</td>
-```
-</tr> 
-</table> 
+🌐 **Language Breakdown**
+Python            █████████████░░░░░░░░░░░░
+Dart              ████░░░░░░░░░░░░░░░░░░░░░
+Bash              ██▓░░░░░░░░░░░░░░░░░░░░░░
+&lt;/td>
+&lt;/tr>
+&lt;/table>
