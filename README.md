@@ -45,4 +45,11 @@ Throughout my career, I’ve implemented data-driven strategies that reduced ope
 
 ```text
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
