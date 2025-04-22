@@ -44,21 +44,3 @@ Throughout my career, I’ve implemented data-driven strategies that reduced ope
 ## 📊 Weekly Development Analytics
 
 [![Luis's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luisvinatea&layout=compact&theme=radical&hide_border=true)](https://wakatime.com/@luisvinatea)
-
-<!--START_SECTION:waka-->
-```text
-🌐 **Top Languages:**  
-Python       15 hrs 23 mins  █████████████░░░░░░░░░░░░   60.12%  
-SQL          4 hrs 12 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.42%  
-JavaScript   2 hrs 56 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.48%  
-
-🔥 **Top Editors:**  
-VS Code      22 hrs 18 mins  █████████████████▓░░░░░░░   87.12%  
-PyCharm      3 hrs 24 mins   ███░░░░░░░░░░░░░░░░░░░░░░   13.28%  
-
-💻 **Operating Systems:**  
-Windows      18 hrs 12 mins  ██████████████░░░░░░░░░░░   71.12%  
-Linux        7 hrs 30 mins   ██████░░░░░░░░░░░░░░░░░░░   29.28%  
-```
-
-<!--END_SECTION:waka-->
