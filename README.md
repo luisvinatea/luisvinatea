@@ -38,3 +38,11 @@ Throughout my career, I’ve implemented data-driven strategies that reduced ope
 - **Tools:** Dart (Flutter)  
 - **Repo:** [luisvinatea/AeraSync](https://github.com/luisvinatea/AeraSync)
 - **Releases:** [SOTR Calculator](https://luisvinatea.github.io/AeraSync/)
+
+---
+
+## 📊 Weekly Development Breakdown
+
+```text
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
