@@ -31,7 +31,7 @@ Throughout my career, I’ve implemented data-driven strategies that reduced ope
 -   **Description:** An open-source initiative to scrape, process, and convert freely available online documentation into high-quality, offline-accessible EPUBs and PDFs
 -   **Tools:** Python (Pandas, Requests, BeautifulSoup, Scrapy)
 -   **Repo:** [luisvinatea/TukuyBooks](https://github.com/luisvinatea/TukuyBooks)
--   **Releases:** [Python Docs in PDF]([https://github.com/luisvinatea/TukuyBooks/releases/download/v1.0.0/Python.3.13.2.Documentation.-.Python.Software.Foundation.pdf](https://mega.nz/file/bhwU3aJS#y71Nc-IfiSiPeslNetHuy0PZJ7J_PTwuSbMmgv6fe6M))
+-   **Releases:** [Python Docs in PDF](https://mega.nz/file/bhwU3aJS#y71Nc-IfiSiPeslNetHuy0PZJ7J_PTwuSbMmgv6fe6M)
 
 ### 2. AeraSync
 -   **Description:** A mobile and web application designed to streamline the calculation and tracking of the Standard Oxygen Transfer Rate (SOTR) and Standard Aeration Efficiency (SAE) for aerators in aquaculture ponds.
