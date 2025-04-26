@@ -39,13 +39,13 @@ Throughout my career, I’ve implemented data-driven strategies that reduced ope
 -   **Repo:** [luisvinatea/AeraSync](https://github.com/luisvinatea/AeraSync)
 -   **Releases:** [SOTR Calculator](https://luisvinatea.github.io/AeraSync/)
 
----
-
 ### 3. KamayBash
 -  **Description**: A collection of Bash and Python scripts to automate repetitive file management tasks in Linux. KamayBash (Quechua for "Tool") provides Nautilus context menu extensions for merging files (CSV, PDF, DOC, PPT), flattening folder structures, and organizing files by extension. Streamline your workflow with simple, powerful tools.
 -  **Tools:** Bash (Shell Scripting)
 -  **Repo:** [luisvinatea/KamayBash](https://github.com/luisvinatea/KamayBash)
--  **Releases:**[pwaCRAFTER](https://github.com/luisvinatea/KamayBash/blob/main/apps/web/pwa_crafter.sh)
+-  **Releases:** [pwaCRAFTER](https://github.com/luisvinatea/KamayBash/blob/main/apps/web/pwa_crafter.sh)
+
+---
 
 ## 📊 Weekly Development Analytics
 
