@@ -37,7 +37,7 @@ Throughout my career, I’ve implemented data-driven strategies that reduced ope
 -   **Description:** A mobile and web application designed to streamline the calculation and tracking of the Standard Oxygen Transfer Rate (SOTR) and Standard Aeration Efficiency (SAE) for aerators in aquaculture ponds.
 -   **Tools:** Dart (Flutter)
 -   **Repo:** [luisvinatea/AeraSync](https://github.com/luisvinatea/AeraSync)
--   **Releases:** [SOTR Calculator]([https://luisvinatea.github.io/AeraSync/](https://aerasync.vercel.app/))
+-   **Releases:** [SOTR Calculator](https://aerasync.vercel.app/)
 
 ### 3. KamayBash
 -  **Description**: A collection of Bash and Python scripts to automate repetitive file management tasks in Linux. KamayBash (Quechua for "Tool") provides Nautilus context menu extensions for merging files (CSV, PDF, DOC, PPT), flattening folder structures, and organizing files by extension. Streamline your workflow with simple, powerful tools.
