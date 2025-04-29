@@ -43,7 +43,7 @@ Throughout my career, I’ve implemented data-driven strategies that reduced ope
 -  **Description**: A collection of Bash and Python scripts to automate repetitive file management tasks in Linux. KamayBash (Quechua for "Tool") provides Nautilus context menu extensions for merging files (CSV, PDF, DOC, PPT), flattening folder structures, and organizing files by extension. Streamline your workflow with simple, powerful tools.
 -  **Tools:** Bash (Shell Scripting)
 -  **Repo:** [luisvinatea/KamayBash](https://github.com/luisvinatea/KamayBash)
--  **Releases:** [KamayPWA](https://github.com/luisvinatea/KamayBash/blob/main/apps/web/setup.sh)
+-  **Releases:** [KamayPWA](https://github.com/luisvinatea/KamayBash/blob/main/apps/web/KamayPWA/lib/KamayPWA.sh)
 
 ---
 
