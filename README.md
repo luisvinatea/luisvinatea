@@ -29,7 +29,7 @@ Throughout my career, I’ve implemented data-driven strategies that reduced ope
 
 ### 1. TukuyBooks
 -   **Description:** An open-source initiative to scrape, process, and convert freely available online documentation into high-quality, offline-accessible EPUBs and PDFs
--   **Tools:** Python (Pandas, Requests, BeautifulSoup, Scrapy)
+-   **Tools:** Python (BeautifulSoup, Scrapy), JavaScript (Node.js)
 -   **Repo:** [luisvinatea/TukuyBooks](https://github.com/luisvinatea/TukuyBooks)
 -   **Releases:** [Python Docs in PDF](https://mega.nz/file/bhwU3aJS#y71Nc-IfiSiPeslNetHuy0PZJ7J_PTwuSbMmgv6fe6M)
 
