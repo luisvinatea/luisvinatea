@@ -23,30 +23,6 @@ Throughout my career, I’ve implemented data-driven strategies that reduced ope
 -   **Other Tools:** Git/GitHub, Azure, Docker, Big Data (MongoDB, BigQuery), RESTful APIs
 -   **Domains:** Financial Modeling, Process Automation, Business Intelligence, Digital Marketing
 
----
-
-## 🚀 Featured Projects
-
-### 1. TukuyBooks
--   **Description:** An open-source initiative to scrape, process, and convert freely available online documentation into high-quality, offline-accessible EPUBs and PDFs
--   **Tools:** Python (BeautifulSoup,  Scrapy),  JavaScript (Node.js)
--   **Repo:** [luisvinatea/TukuyBooks](https://github.com/luisvinatea/TukuyBooks)
--   **Releases:** [Python Docs in PDF](https://mega.nz/file/bhwU3aJS#y71Nc-IfiSiPeslNetHuy0PZJ7J_PTwuSbMmgv6fe6M)
-
-### 2. AeraSync
--   **Description:** A mobile and web application designed to streamline the calculation and tracking of the Standard Oxygen Transfer Rate (SOTR) and Standard Aeration Efficiency (SAE) for aerators in aquaculture ponds.
--   **Tools:** Dart (Flutter)
--   **Repo:** [luisvinatea/AeraSync](https://github.com/luisvinatea/AeraSync)
--   **Releases:** [Aerator Comparer](https://aerasync-web.vercel.app/)
-
-### 3. KamayBash
--  **Description**: A collection of Bash and Python scripts to automate repetitive file management tasks in Linux. KamayBash (Quechua for "Tool") provides Nautilus context menu extensions for merging files (CSV, PDF, DOC, PPT), flattening folder structures, and organizing files by extension. Streamline your workflow with simple, powerful tools.
--  **Tools:** Bash (Shell Scripting)
--  **Repo:** [luisvinatea/KamayBash](https://github.com/luisvinatea/KamayBash)
--  **Releases:** [KamayPWA](https://github.com/luisvinatea/KamayBash/blob/main/apps/web/KamayPWA/lib/KamayPWA.sh)
-
----
-
 ## 📊 Weekly Development Analytics
 
 [![Luis's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luisvinatea&layout=compact&theme=radical&hide_border=true&custom_title=Weekly+Coding+Activity&width=2400)](https://wakatime.com/@luisvinatea)
